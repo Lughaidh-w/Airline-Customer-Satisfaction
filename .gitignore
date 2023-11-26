@@ -1,4 +1,5 @@
 *.csv
 */
 *.tmp
+~WRL0005.tmp 
 ~$CA1.docx
