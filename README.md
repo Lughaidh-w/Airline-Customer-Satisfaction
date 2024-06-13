@@ -6,12 +6,6 @@
 # Introduction
 This project explores a dataset of a airline company anonomysed as Invistico Airline, sourced from Kaggle.com.
 
-This project 
-
-
-
-
-
 
 
 ## Data
